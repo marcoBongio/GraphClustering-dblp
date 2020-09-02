@@ -10,3 +10,8 @@ In addition to the clustering task, the java application compute some graph clus
 - Modularity
 - Performance
 
+<p align="center">
+  <img src="https://github.com/marcoBongio/GraphClustering-dblp/blob/master/ScanResult.png">
+</p>
+
+
